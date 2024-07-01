@@ -1,0 +1,31 @@
+
+body {
+    width: 100%;
+    margin: 0;
+}
+
+
+header {
+    background: #6943FF;
+    color: white;
+}
+
+input {
+    color: white;
+    background: #6943FF;
+    border: 2px solid #B295FF;
+    border-radius: 2px;
+}
+
+button {
+    color: #3D3D3D;
+}
+
+main {
+    background:#F4F4F4;
+}
+
+
+.box {
+    background-color: white;
+}
