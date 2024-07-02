@@ -67,8 +67,7 @@ button {
 
 main {
     background:#F4F4F4;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 25px;
     color:#5A537B;
 }
 
@@ -79,10 +78,8 @@ main {
     width: 500px;
     height: 120px;
     top: 321px;
-    left: 25px;
     gap: 18.72px;
     border-radius: 4.68px;
-    
 }
 
 h2 {
